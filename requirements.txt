@@ -1,0 +1,11 @@
+pip
+Cython
+jupyter
+jupyter_client
+ipython
+pandas
+matplotlib
+scipy
+scikit-learn
+khmer
+https://github.com/dib-lab/sourmash/archive/master.zip
